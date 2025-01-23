@@ -76,18 +76,18 @@ Authors may be asked to review other workshop submissions.
 <table>
 <tr><th>Time</th><th>Session</th></tr>
 <tr><td>09:00 - 09:15</td><td>Opening remarks</td></tr>
-<tr><td>09:15 - 09:45</td><td>Invited talk: <a href="#sara-hooker">Sara Hooker</a></td></tr>
-<tr><td>09:45 - 10:15</td><td>Invited talk: <a href="#max-balandat">Max Balandat</a></td></tr>
+<tr><td>09:15 - 09:45</td><td>Invited talk: <!--<a href="#sara-hooker">Sara Hooker</a></!--></td></tr>
+<tr><td>09:45 - 10:15</td><td>Invited talk: <!--<a href="#max-balandat">Max Balandat</a></!--></td></tr>
 <tr><td>10:15 - 11:00</td><td><em>Coffee and breakout sessions</em></td></tr>
-<tr><td>11:00 - 11:30</td><td>Invited talk: <a href="#tri-dao">Tri Dao</a></td></tr>
+<tr><td>11:00 - 11:30</td><td>Invited talk: <!--<a href="#tri-dao">Tri Dao</a></!--></td></tr>
 <tr><td>11:30 - 12:00</td><td>Contributed talks/demos</td></tr>
 <tr><td>12:00 - 13:15</td><td><em>Lunch and discussion</em></td></tr>
-<tr><td>13:15 - 13:45</td><td>Invited talk: <a href="#stella-biderman">Stella Biderman</a></td></tr>
+<tr><td>13:15 - 13:45</td><td>Invited talk: <!--<a href="#stella-biderman">Stella Biderman</a></!--></td></tr>
 <tr><td>13:45 - 14:15</td><td>Lightning talks/demos</td></tr>
 <tr><td>14:15 - 15:00</td><td><em>Coffee and breakout sessions</em></td></tr>
-<tr><td>15:00 - 15:30</td><td>Invited talk: <a href="#paige-bailey">Paige Bailey</a></td></tr>
+<tr><td>15:00 - 15:30</td><td>Invited talk: <!--<a href="#paige-bailey">Paige Bailey</a></!--></td></tr>
 <tr><td>15:30 - 16:30</td><td><em>Poster session</em></td></tr>
-<tr><td>16:30 - 17:00</td><td>Invited talk: <a href="#matt-johnson">Matt Johnson</a></td></tr>
+<tr><td>16:30 - 17:00</td><td>Invited talk: <!--<a href="#matt-johnson">Matt Johnson</a></!--></td></tr>
 <tr><td>17:00 - 17:55</td><td>Panel discussion</td></tr>
 <tr><td>17:55 - 18:00</td><td>Closing remarks</td></tr>
 </table>
@@ -95,7 +95,9 @@ Authors may be asked to review other workshop submissions.
 
 ## Invited Speakers
 
-<div class="row" id="paige-bailey">
+Coming soon!
+
+<!-- <div class="row" id="paige-bailey">
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:30px;margin-bottom:15px" src="{{ "/assets/img/people/paige_bailey.jpg" | prepend:site.baseurl }}">
     <p><a href="https://webpaige.dev/"><b>Paige Bailey</b></a>
@@ -162,7 +164,7 @@ Authors may be asked to review other workshop submissions.
     He has made numerous contributions to numerical libraries used in machine learning.
     Matt was a founder and lead contributor of Autograd, a precursor to the widely popular JAX library, and now is a key contributor to JAX.</p>
   </div>
-</div>
+</div> -->
 
 ## Organizers
 
