@@ -63,7 +63,7 @@ We invite high-quality extended abstract submissions on open-source software dev
 
 Accepted submissions will be presented during joint poster sessions and will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals. 
 
-Submissions must be anonymous, in <span style="color:#3a92d6;font-weight:400;"><a href="https://neurips.cc/Conferences/2024/PaperInformation/StyleFiles">NeurIPS format</a></span> and not longer than **four pages**, excluding references, acknowledgments, and supplementary material. Long appendices are permitted but strongly discouraged, and reviewers are not required to read them. The review process is double-blind.
+Submissions must be anonymous, in <span style="color:#3a92d6;font-weight:400;"><a href="https://icml.cc/Conferences/2025/AuthorInstructions">ICML format</a></span> and not longer than **four pages**, excluding references, acknowledgments, and supplementary material. Long appendices are permitted but strongly discouraged, and reviewers are not required to read them. The review process is double-blind.
 
 <!-- Please note that we do not accept submissions that have previously been published elsewhere or will be presented at the main ICML conference. -->
 
