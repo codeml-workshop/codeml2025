@@ -205,8 +205,8 @@ Authors may be asked to review other workshop submissions.
     </a>
     <div class="people-name">
       <a href="https://alinaselega.github.io/">Alina Selega</a>
-      <h6>Lunenfeld-Tanenbaum Research Institute</h6>
-      <h6>Vector Institute</h6>
+      <h6>Recursion</h6>
+      <!-- <h6>Vector Institute</h6> -->
     </div>
   </div>
 
