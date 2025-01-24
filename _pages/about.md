@@ -95,8 +95,6 @@ Authors may be asked to review other workshop submissions.
 
 ## Invited Speakers
 
-Coming soon!
-
 <!-- <div class="row" id="paige-bailey">
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:30px;margin-bottom:15px" src="{{ "/assets/img/people/paige_bailey.jpg" | prepend:site.baseurl }}">
