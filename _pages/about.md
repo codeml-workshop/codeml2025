@@ -154,7 +154,8 @@ Coming soon!
     and the learning dynamics of large language models.
     Stella is currently a lead contributor to the Pythia project for transformer interpretability.</p>
   </div>
-</div>
+</div> -->
+
 
 <div class="row" id="matt-johnson">
   <div class="col-md-12">
@@ -164,7 +165,7 @@ Coming soon!
     He has made numerous contributions to numerical libraries used in machine learning.
     Matt was a founder and lead contributor of Autograd, a precursor to the widely popular JAX library, and now is a key contributor to JAX.</p>
   </div>
-</div> -->
+</div>
 
 ## Organizers
 
