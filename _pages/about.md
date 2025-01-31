@@ -117,6 +117,17 @@ Authors may be asked to review other workshop submissions.
   </div>
 </div>
 
+<div class="row" id="max-balandat">
+  <div class="col-md-12">
+    <img class="speaker-pic" style="float:left;margin-right:30px;margin-bottom:15px" src="{{ "/assets/img/people/max_balandat.jpeg" | prepend:site.baseurl }}">
+    <p><a href="https://www.linkedin.com/in/maximilian-balandat-b5843946/"><b>Max Balandat</b></a>
+    is a leading researcher in Bayesian optimization and ML, currently advancing the field through his work at Meta.
+    He founded and currently maintains BoTorch and Ax, the leading libraries for Bayesian optimization and experimental design.
+    Max's research focuses on making complex optimization techniques more accessible and applicable to real-world problems in various fields including econometrics and treatment optimization.</p>
+  </div>
+</div>
+</div> -->
+
 <div class="row" id="tri-dao">
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:30px;margin-bottom:15px" src="{{ "/assets/img/people/tri_dao.jpeg" | prepend:site.baseurl }}">
@@ -126,16 +137,6 @@ Authors may be asked to review other workshop submissions.
     Christopher Re and Stefano Ermon.
     Tri is a leading expert in machine learning and systems, with a focus on efficient training and long-range context.
     He has made significant contributions to the development of open-source tools and frameworks, including Mamba and FlashAttention.</p>
-  </div>
-</div>
-
-<div class="row" id="max-balandat">
-  <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:30px;margin-bottom:15px" src="{{ "/assets/img/people/max_balandat.jpeg" | prepend:site.baseurl }}">
-    <p><a href="https://www.linkedin.com/in/maximilian-balandat-b5843946/"><b>Max Balandat</b></a>
-    is a leading researcher in Bayesian optimization and ML, currently advancing the field through his work at Meta.
-    He founded and currently maintains BoTorch and Ax, the leading libraries for Bayesian optimization and experimental design.
-    Max's research focuses on making complex optimization techniques more accessible and applicable to real-world problems in various fields including econometrics and treatment optimization.</p>
   </div>
 </div>
 
@@ -152,8 +153,7 @@ Authors may be asked to review other workshop submissions.
     and the learning dynamics of large language models.
     Stella is currently a lead contributor to the Pythia project for transformer interpretability.</p>
   </div>
-</div> -->
-
+</div>
 
 <div class="row" id="matt-johnson">
   <div class="col-md-12">
@@ -164,6 +164,7 @@ Authors may be asked to review other workshop submissions.
     Matt was a founder and lead contributor of Autograd, a precursor to the widely popular JAX library, and now is a key contributor to JAX.</p>
   </div>
 </div>
+
 
 ## Organizers
 
