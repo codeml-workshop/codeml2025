@@ -106,17 +106,6 @@ Authors may be asked to review other workshop submissions.
   </div>
 </div>
 
-<div class="row" id="sara-hooker">
-  <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:30px;margin-bottom:15px" src="{{ "/assets/img/people/sara_hooker.jpeg" | prepend:site.baseurl }}">
-    <p><a href="https://www.sarahooker.me/"><b>Sara Hooker</b></a>
-    is a renowned ML researcher and leader in AI fairness and interpretability, and currently the VP of research at Cohere.
-    She previously was a research scientist at Google Brain, focusing on training models that are not only accurate, but also interpretable, fair, and robust.
-    Sara is the founder and a current advisor of Delta Analytics, a nonprofit organization dedicated to bringing data science expertise to underserved communities.
-    She uses her expertise and outreach to advocate for trustworthy, accessible and equitable ML practices and to promote open research and collaboration.</p>
-  </div>
-</div>
-
 <div class="row" id="max-balandat">
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:30px;margin-bottom:15px" src="{{ "/assets/img/people/max_balandat.jpeg" | prepend:site.baseurl }}">
@@ -127,6 +116,17 @@ Authors may be asked to review other workshop submissions.
   </div>
 </div>
 </div> -->
+
+<div class="row" id="sara-hooker">
+  <div class="col-md-12">
+    <img class="speaker-pic" style="float:left;margin-right:30px;margin-bottom:15px" src="{{ "/assets/img/people/sara_hooker.jpeg" | prepend:site.baseurl }}">
+    <p><a href="https://www.sarahooker.me/"><b>Sara Hooker</b></a>
+    is a renowned ML researcher and leader in AI fairness and interpretability, and currently the VP of research at Cohere.
+    She previously was a research scientist at Google Brain, focusing on training models that are not only accurate, but also interpretable, fair, and robust.
+    Sara is the founder and a current advisor of Delta Analytics, a nonprofit organization dedicated to bringing data science expertise to underserved communities.
+    She uses her expertise and outreach to advocate for trustworthy, accessible and equitable ML practices and to promote open research and collaboration.</p>
+  </div>
+</div>
 
 <div class="row" id="tri-dao">
   <div class="col-md-12">
@@ -164,6 +164,8 @@ Authors may be asked to review other workshop submissions.
     Matt was a founder and lead contributor of Autograd, a precursor to the widely popular JAX library, and now is a key contributor to JAX.</p>
   </div>
 </div>
+
+
 
 
 ## Organizers
