@@ -166,7 +166,28 @@ Authors may be asked to review other workshop submissions.
 </div>
 
 
+<div class="row" id="evan-shelhamer">
+  <div class="col-md-12">
+    <img class="speaker-pic" style="float:left;margin-right:30px;margin-bottom:15px" src="{{ "/assets/img/people/evan_shelhamer.jpg" | prepend:site.baseurl }}">
+    <p><a href="http://imaginarynumber.net/"><b>Evan Shelhamer</b></a>
+    is an incoming assistant professor of computer science at UBC, a faculty member at the Vector Institute, and a senior research scientist at Google DeepMind. 
+    He has over ten years' experience in research and development for computer vision and machine learning and is an advocate for DIY science and open-source.
+    Most notably, Evan served as the lead developer of the Caffe deep learning framework from version 0.1 to 1.0.
+   </p>
+  </div>
+</div>
 
+<div class="row" id="chris-rackauckas">
+  <div class="col-md-12">
+    <img class="speaker-pic" style="float:left;margin-right:30px;margin-bottom:15px" src="{{ "/assets/img/people/chris_rackauckas.jpg" | prepend:site.baseurl }}">
+    <p><a href="https://chrisrackauckas.com/"><b>Chris Rackauckas</b></a>
+   is the Director of Modeling and Simulation at Julia Computing, the lead developer of the SciML Open Source Software Organization, Co-PI of the Julia Lab at MIT 
+   and Director of Scientific Research at Pumas-AI. He is the lead developer of several major open-source packages within the Julia ecosystem, perhaps most notably
+   DifferentialEquations.jl. Chris's research focuses on scientific machine learning, which aims to integrate domain-specific scientific models with data-driven approaches
+   from machine learning to accelerate simulations.
+   </p>
+  </div>
+</div>
 
 ## Organizers
 
