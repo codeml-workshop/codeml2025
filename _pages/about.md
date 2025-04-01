@@ -31,18 +31,15 @@ and extended abstract submissions from open-source contributors in machine learn
     <tbody>
     <tr>
         <td><b>Submission Deadline</b></td>
-        <!-- <td>August 30th, 2024 11:59 PM AoE</td> -->
-        <td>TBD</td>
+        <td>May 19th, 2025 11:59 PM AoE</td>
     </tr>
     <tr>
         <td><b>Acceptance Notification Date</b></td>
-        <!-- <td>September 30th, 2024 11:59 PM AoE</td> -->
-        <td>TBD</td>
+        <td>June 9th, 2025 11:59 PM AoE</td>
     </tr>
     <tr>
         <td><b>Workshop Date</b></td>
-        <!-- <td>December 14th or 15th, 2024</td> -->
-        <td>TBD</td>
+        <td>July 18th or 19th, 2025</td>
     </tr>
     </tbody>
 </table>
