@@ -177,7 +177,7 @@ Authors may be asked to review other workshop submissions.
 <div class="row" id="chris-rackauckas">
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:30px;margin-bottom:15px" src="{{ "/assets/img/people/chris_rackauckas.jpg" | prepend:site.baseurl }}">
-    <p><a href="https://chrisrackauckas.com/"><b>Chris Rackauckas</b></a>
+    <p><a href="https://chrisrackauckas.com/"><b>Chris Rackauckas</b></a> (tentative)
    is the Director of Modeling and Simulation at Julia Computing, the lead developer of the SciML Open Source Software Organization, Co-PI of the Julia Lab at MIT 
    and Director of Scientific Research at Pumas-AI. He is the lead developer of several major open-source packages within the Julia ecosystem, perhaps most notably
    DifferentialEquations.jl. Chris's research focuses on scientific machine learning, which aims to integrate domain-specific scientific models with data-driven approaches
