@@ -4,11 +4,11 @@ title: About
 permalink: /
 
 banner: /assets/img/logos/logo-codeml.svg  # link to banner image relative to root
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 ---
 
-# Championing Open-source DEvelopment in Machine Learning
+# **C**hampioning **O**pen-source **De**velopment in **M**achine **L**earning
 
 Open-source software development is a cornerstone of modern machine learning research.
 However, there are often overlooked issues around the
@@ -31,15 +31,15 @@ and extended abstract submissions from open-source contributors in machine learn
     <tbody>
     <tr>
         <td><b>Submission Deadline</b></td>
-        <td>May 19th, 2025 11:59 PM AoE</td>
+        <td>May 19, 2025 - 11:59 PM AoE</td>
     </tr>
     <tr>
         <td><b>Acceptance Notification Date</b></td>
-        <td>June 9th, 2025 11:59 PM AoE</td>
+        <td>June 9, 2025</td>
     </tr>
     <tr>
         <td><b>Workshop Date</b></td>
-        <td>July 18th or 19th, 2025</td>
+        <td>June 18 or 19, 2025</td>
     </tr>
     </tbody>
 </table>
@@ -47,26 +47,33 @@ and extended abstract submissions from open-source contributors in machine learn
 
 ## Call for Papers
 
-We invite high-quality extended abstract submissions on open-source software development in machine learning and adjacent fields. Some examples (non-exhaustive list): 
+We welcome submissions on open-source software within the context of machine learning research. We encourage all types of contributions, including research papers, position papers, technical reports, and retrospectives.
 
-- Submissions that describe a new open-source machine learning software library 
-- Submissions which explain a new addition, significant bug fixes, or changes to an established library
-- Submissions that explore a scientific result across different versions of an (established) library
-- Submissions on the technical setup (e.g. CI, testing) and best practices for reproducibility
-- Proposals for better workflows or incentives for open-source development and maintenance in ML
-<!-- - Proposals for workshops or events on how to build a community around software -->
+**Suggested topics** include:
 
-### Submissions
+-   Submissions that describe a new open-source machine learning software library
+-   Submissions which explain a new addition, significant bug fixes, or changes to an established library
+-   Submissions that explore a scientific result across different versions of an (established) library
+-   Submissions on the technical setup (e.g. CI, testing) and best practices for reproducibility
+-   Proposals for better workflows or incentives for open-source development and maintenance in ML
+-   Retrospectives on the development and maintenance of mature ML OSS packages
 
-Accepted submissions will be presented during joint poster sessions and will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals. 
+_We especially encourage submissions on development practices, mature libraries, and other topics that have received little recognition from traditional academic venues_.
 
-Submissions must be anonymous, in <span style="color:#3a92d6;font-weight:400;"><a href="https://icml.cc/Conferences/2025/AuthorInstructions">ICML format</a></span> and not longer than **four pages**, excluding references, acknowledgments, and supplementary material. Long appendices are permitted but strongly discouraged, and reviewers are not required to read them. The review process is double-blind.
+### Submission Guidelines
 
-<!-- Please note that we do not accept submissions that have previously been published elsewhere or will be presented at the main ICML conference. -->
+We invite submissions of **4-page workshop papers** (excluding references and appendix) that address any of the workshop themes. Submissions should use the **[ICML style file](https://icml.cc/Conferences/2025/AuthorInstructions)**. We encourage submissions to include relevant links to projects wherever applicable (we recommend using [Anonymous4OpenScience](https://anonymous.4open.science/) to hide identifying details). We discourage lengthy appendices as reviewers are not required to read them.
 
-<!-- We also welcome submissions of recently published work that is strongly within the scope of the workshop (with proper formatting). We encourage the authors of such submissions to focus on accessibility to the wider NeurIPS community while distilling their work into an extended abstract.  -->
+**[Submit Paper on OpenReview >> (available soon)]()**
 
-Authors may be asked to review other workshop submissions. 
+Submissions will undergo a double-blind review process for relevance and adherence to ICML's academic integrity standards. We recognize that it may be impossible for some submissions to be truly anonymous (e.g., a retrospective on a widely used library), so we ask authors to use their best judgment regarding potentially identifying details.
+
+We aim to be inclusive while ensuring high-quality discussions that align with the workshop's objectives. To that end, papers will be reviewed under the [TMLR criteria](https://jmlr.org/tmlr/acceptance-criteria.html):
+
+1.  **Correctness:** Are the claims made in the submission supported by accurate, convincing and clear evidence?
+2.  **Audience:** Would some individuals in the workshop's audience be interested in the findings of this submission?
+
+Accepted submissions will be presented during joint poster sessions and made publicly available as non-archival reports, allowing future submissions to archival conferences or journals.
 
 ## Schedule
 
@@ -202,11 +209,11 @@ Authors may be asked to review other workshop submissions.
   </div>
 
   <div class="col-xs-3">
-    <a href="https://jonathanwenger.netlify.app/">
+    <a href="https://jonathanwenger.github.io/">
       <img class="people-pic" src="{{ "/assets/img/people/jonathan_wenger.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://jonathanwenger.netlify.app/">Jonathan Wenger</a>
+      <a href="https://jonathanwenger.github.io/">Jonathan Wenger</a>
       <h6>Columbia University</h6>
     </div>
   </div>
