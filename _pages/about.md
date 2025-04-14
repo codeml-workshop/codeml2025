@@ -64,7 +64,7 @@ _We especially encourage submissions on development practices, mature libraries,
 
 We invite submissions of **4-page workshop papers** (excluding references and appendix) that address any of the workshop themes. Submissions should use the **[ICML style file](https://icml.cc/Conferences/2025/AuthorInstructions)**. We encourage submissions to include relevant links to projects wherever applicable (we recommend using [Anonymous4OpenScience](https://anonymous.4open.science/) to hide identifying details). We discourage lengthy appendices as reviewers are not required to read them.
 
-**[Submit Paper on OpenReview >> (available soon)]()**
+**[Submit Paper on OpenReview >>](https://openreview.net/group?id=ICML.cc/2025/Workshop/CODEML)**
 
 Submissions will undergo a double-blind review process for relevance and adherence to ICML's academic integrity standards. We recognize that it may be impossible for some submissions to be truly anonymous (e.g., a retrospective on a widely used library), so we ask authors to use their best judgment regarding potentially identifying details.
 
