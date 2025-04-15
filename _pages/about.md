@@ -14,7 +14,7 @@ Open-source software development is a cornerstone of modern machine learning res
 However, there are often overlooked issues around the
 sustainability of long-term projects, the reliability of software,
 and proper academic acknowledgment of long-term maintenance and contributions.
-This workshop aims to identify and discuss strategies for successful and sustainable open-source development
+The CODEML workshop at [ICML](https://icml.cc/) aims to identify and discuss strategies for successful and sustainable open-source development
 in machine learning while also proposing possible solutions to the challenges mentioned above.
 In addition, this workshop will serve as a platform to provide
 academic and community recognition of efforts from open-source contributors in the field.
@@ -44,6 +44,15 @@ and extended abstract submissions from open-source contributors in machine learn
     </tbody>
 </table>
 </div>
+
+## Location and Venue
+
+[![ICML](https://icml.cc/static/core/img/ICML-logo.svg)](https://icml.cc/)
+
+[Vancouver Convention Center](https://maps.app.goo.gl/QKd3EDK3eSKTM7wKA)<br/>
+1055 Canada Pl, Vancouver, BC V6C 0C3, Canada
+
+[Register for ICML 2025 >>](https://icml.cc/Register/view-registration)
 
 ## Call for Papers
 
