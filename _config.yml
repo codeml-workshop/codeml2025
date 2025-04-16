@@ -38,7 +38,7 @@ max_width: 1000px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
-og_image: assets/img/logos/logo-codeml.svg # The site-wide (default for all links) Open Graph preview image
+og_image: assets/img/logos/logo-codeml.png # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
