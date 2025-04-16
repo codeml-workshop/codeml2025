@@ -39,7 +39,7 @@ and extended abstract submissions from open-source contributors in machine learn
     </tr>
     <tr>
         <td><b>Workshop Date</b></td>
-        <td>June 18 or 19, 2025</td>
+        <td>July 18 or 19, 2025</td>
     </tr>
     </tbody>
 </table>
