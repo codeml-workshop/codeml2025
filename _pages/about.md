@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Championing Open-source Development in Machine Learning
 permalink: /
 
 banner: /assets/img/logos/logo-codeml.svg  # link to banner image relative to root
