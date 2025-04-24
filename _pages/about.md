@@ -56,7 +56,7 @@ and extended abstract submissions from open-source contributors in machine learn
 
 ## Call for Papers
 
-We welcome submissions on open-source software within the context of machine learning research. We encourage all types of contributions, including research papers, position papers, technical reports, and retrospectives.
+We welcome submissions on open-source software within the context of machine learning research. We encourage all types of contributions, including research papers, position papers, technical reports, and retrospectives. 
 
 **Suggested topics** include:
 
@@ -68,6 +68,8 @@ We welcome submissions on open-source software within the context of machine lea
 -   Retrospectives on the development and maintenance of mature ML OSS packages
 
 _We especially encourage submissions on development practices, mature libraries, and other topics that have received little recognition from traditional academic venues_.
+
+As our proceedings are non-archival, we will accept work that is under submission or recently accepted by other publication venues (e.g. NeurIPS, JMLR OSS Track, etc.)
 
 ### Submission Guidelines
 
@@ -82,7 +84,7 @@ We aim to be inclusive while ensuring high-quality discussions that align with t
 1.  **Correctness:** Are the claims made in the submission supported by accurate, convincing and clear evidence?
 2.  **Audience:** Would some individuals in the workshop's audience be interested in the findings of this submission?
 
-Accepted submissions will be presented during joint poster sessions and made publicly available as non-archival reports, allowing future submissions to archival conferences or journals.
+Accepted submissions will be presented during joint poster sessions and made publicly available as non-archival reports, allowing future submissions to archival conferences or journals. 
 
 ## Schedule
 
