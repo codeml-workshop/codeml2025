@@ -158,7 +158,7 @@ Accepted submissions will be presented during joint poster sessions and made pub
 <div class="row" id="stella-biderman">
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:30px;margin-bottom:15px" src="{{ "/assets/img/people/stella_biderman.png" | prepend:site.baseurl }}">
-    <p><a href="https://www.stellabiderman.com/"><b>Stella Biderman</b></a>
+    <p><a href="https://github.com/stellaathena"><b>Stella Biderman</b></a>
     is a researcher at Booz Allen Hamilton & executive director at EleutherAI who
     specializes in natural language processing, ML interpretability, and AI
     ethics.
