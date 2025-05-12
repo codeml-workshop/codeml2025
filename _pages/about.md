@@ -31,7 +31,7 @@ and extended abstract submissions from open-source contributors in machine learn
     <tbody>
     <tr>
         <td><b>Submission Deadline</b></td>
-        <td>May 19, 2025 - 11:59 PM AoE</td>
+        <td><s>May 19</s> Extended: May 26, 2025 - 11:59 PM AoE</td>
     </tr>
     <tr>
         <td><b>Acceptance Notification Date</b></td>
@@ -39,7 +39,7 @@ and extended abstract submissions from open-source contributors in machine learn
     </tr>
     <tr>
         <td><b>Workshop Date</b></td>
-        <td>July 18 or 19, 2025</td>
+        <td>July 18, 2025</td>
     </tr>
     </tbody>
 </table>
