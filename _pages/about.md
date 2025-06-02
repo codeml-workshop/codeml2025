@@ -92,19 +92,19 @@ Accepted submissions will be presented during joint poster sessions and made pub
 <tr><th>Time</th><th>Session</th></tr>
 <tr><td>09:00 - 09:15</td><td>Opening remarks</td></tr>
 <tr><td>09:15 - 09:45</td><td>Invited talk: <!--<a href="#sara-hooker">Sara Hooker</a></!--></td></tr>
-<tr><td>09:45 - 10:15</td><td>Invited talk: <!--<a href="#max-balandat">Max Balandat</a></!--></td></tr>
-<tr><td>10:15 - 11:00</td><td><em>Coffee and breakout sessions</em></td></tr>
-<tr><td>11:00 - 11:30</td><td>Invited talk: <!--<a href="#tri-dao">Tri Dao</a></!--></td></tr>
-<tr><td>11:30 - 12:00</td><td>Contributed talks/demos</td></tr>
-<tr><td>12:00 - 13:15</td><td><em>Lunch and discussion</em></td></tr>
-<tr><td>13:15 - 13:45</td><td>Invited talk: <!--<a href="#stella-biderman">Stella Biderman</a></!--></td></tr>
-<tr><td>13:45 - 14:15</td><td>Lightning talks/demos</td></tr>
-<tr><td>14:15 - 15:00</td><td><em>Coffee and breakout sessions</em></td></tr>
-<tr><td>15:00 - 15:30</td><td>Invited talk: <!--<a href="#paige-bailey">Paige Bailey</a></!--></td></tr>
-<tr><td>15:30 - 16:30</td><td><em>Poster session</em></td></tr>
-<tr><td>16:30 - 17:00</td><td>Invited talk: <!--<a href="#matt-johnson">Matt Johnson</a></!--></td></tr>
-<tr><td>17:00 - 17:55</td><td>Panel discussion</td></tr>
-<tr><td>17:55 - 18:00</td><td>Closing remarks</td></tr>
+<tr><td>09:45 - 10:15</td><td>Coffee break</td></tr>
+<tr><td>10:15 - 10:45</td><td><em>Invited talk: </em></td></tr>
+<tr><td>10:45 - 11:15</td><td>Invited talk: <!--<a href="#tri-dao">Tri Dao</a></!--></td></tr>
+<tr><td>11:15 - 12:00</td><td>Contributed talks / demos</td></tr>
+<tr><td>12:00 - 13:00</td><td><em>Lunch and discussion</em></td></tr>
+<tr><td>13:00 - 13:30</td><td>Invited talk: <!--<a href="#stella-biderman">Stella Biderman</a></!--></td></tr>
+<tr><td>13:30 - 14:00</td><td>Invited talk: <!--<a href="#paige-bailey">Paige Bailey</a></!--></td></tr>
+<tr><td>14:00 - 14:15</td><td>Contributed talks / demos</td></tr>
+<tr><td>14:15 - 15:00</td><td><em>Poster session</em></td></tr>
+<tr><td>15:00 - 15:30</td><td><em>Coffee break</em></td></tr>
+<tr><td>15:30 - 16:00</td><td>Invited talk: <!--<a href="#matt-johnson">Matt Johnson</a></!--></td></tr>
+<tr><td>16:00 - 16:55</td><td>Panel discussion</td></tr>
+<tr><td>16:55 - 17:00</td><td>Closing remarks</td></tr>
 </table>
 
 
