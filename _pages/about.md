@@ -86,6 +86,9 @@ We aim to be inclusive while ensuring high-quality discussions that align with t
 
 Accepted submissions will be presented during joint poster sessions and made publicly available as non-archival reports, allowing future submissions to archival conferences or journals. 
 
+### Camera-Ready Submission
+For the camera-ready version of accepted papers, please use [this style file](https://github.com/codeml-workshop/codeml2025/blob/main/_data/icml_codeml_2025.sty) which serves as a drop-in replacement of the ICML style file.
+
 ## Schedule
 
 <table>
