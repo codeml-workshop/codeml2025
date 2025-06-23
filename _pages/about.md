@@ -177,7 +177,7 @@ For the camera-ready version of accepted papers, please use [this style file](ht
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:30px;margin-bottom:15px" src="{{ "/assets/img/people/matt_johnson.jpg" | prepend:site.baseurl }}">
     <p><a href="https://github.com/mattjj"><b>Matt Johnson</b></a>
-    is a senior research scientist at Google, where he works on the development of open-source tools and frameworks for machine learning.
+    is a researcher at Google Deepmind, where he works on the development of open-source tools and frameworks for machine learning.
     He has made numerous contributions to numerical libraries used in machine learning.
     Matt was a founder and lead contributor of Autograd, a precursor to the widely popular JAX library, and now is a key contributor to JAX.</p>
   </div>
