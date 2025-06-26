@@ -188,8 +188,8 @@ For the camera-ready version of accepted papers, please use [this style file](ht
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:30px;margin-bottom:15px" src="{{ "/assets/img/people/evan_shelhamer.jpg" | prepend:site.baseurl }}">
     <p><a href="http://imaginarynumber.net/"><b>Evan Shelhamer</b></a>
-    is an incoming assistant professor of computer science at UBC, a faculty member at the Vector Institute, and a senior research scientist at Google DeepMind. 
-    He has over ten years' experience in research and development for computer vision and machine learning and is an advocate for DIY science and open-source.
+    is an assistant professor of computer science at UBC and a faculty member at the Vector Institute. 
+    He has over ten years' experience in research and development for computer vision and machine learning and is an advocate for DIY open science and open-source code.
     Most notably, Evan served as the lead developer of the Caffe deep learning framework from version 0.1 to 1.0.
    </p>
   </div>
