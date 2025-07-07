@@ -94,18 +94,18 @@ For the camera-ready version of accepted papers, please use [this style file](ht
 <table>
 <tr><th>Time</th><th>Session</th></tr>
 <tr><td>09:00 - 09:15</td><td>Opening remarks</td></tr>
-<tr><td>09:15 - 09:45</td><td>Invited talk: <!--<a href="#sara-hooker">Sara Hooker</a></!--></td></tr>
-<tr><td>09:45 - 10:15</td><td>Coffee break</td></tr>
-<tr><td>10:15 - 10:45</td><td><em>Invited talk: </em></td></tr>
-<tr><td>10:45 - 11:15</td><td>Invited talk: <!--<a href="#tri-dao">Tri Dao</a></!--></td></tr>
+<tr><td>09:15 - 09:45</td><td><a href="#tri-dao">Tri Dao</a>: "Open-Source Attention Optimizations"</td></tr>
+<tr><td>09:45 - 10:15</td><td><em>Coffee break</em></td></tr>
+<tr><td>10:15 - 10:45</td><td><a href="#evan-shelhamer">Evan Shelhamer</a>: "DIY Deep Learning a Decade Later: a Retrospective on Brewing Community with Caffe"</td></tr>
+<tr><td>10:45 - 11:15</td><td><a href="#sara-hooker">Sara Hooker</a>: "Beyond the Research Paper: Why the Way Breakthroughs Happen Is Ripe for Revolution"</td></tr>
 <tr><td>11:15 - 12:00</td><td>Contributed talks / demos</td></tr>
 <tr><td>12:00 - 13:00</td><td><em>Lunch and discussion</em></td></tr>
-<tr><td>13:00 - 13:30</td><td>Invited talk: <!--<a href="#stella-biderman">Stella Biderman</a></!--></td></tr>
-<tr><td>13:30 - 14:00</td><td>Invited talk: <!--<a href="#paige-bailey">Paige Bailey</a></!--></td></tr>
+<tr><td>13:00 - 13:30</td><td><a href="#matt-johnson">Matt Johnson</a>: “JAX and OSS at Google / DeepMind”</td></tr>
+<tr><td>13:30 - 14:00</td><td><a href="#chris-rackauckas">Chris Rackauckas</a> : “Differentiating and Integrating Open Source Development with Research in Julia's SciML”</td></tr>
 <tr><td>14:00 - 14:15</td><td>Contributed talks / demos</td></tr>
-<tr><td>14:15 - 15:00</td><td><em>Poster session</em></td></tr>
+<tr><td>14:15 - 15:00</td><td>Poster session</td></tr>
 <tr><td>15:00 - 15:30</td><td><em>Coffee break</em></td></tr>
-<tr><td>15:30 - 16:00</td><td>Invited talk: <!--<a href="#matt-johnson">Matt Johnson</a></!--></td></tr>
+<tr><td>15:30 - 16:00</td><td><a href="#stella-biderman">Stella Biderman</a>: TBA</td></tr>
 <tr><td>16:00 - 16:55</td><td>Panel discussion</td></tr>
 <tr><td>16:55 - 17:00</td><td>Closing remarks</td></tr>
 </table>
