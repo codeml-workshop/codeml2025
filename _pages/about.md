@@ -105,7 +105,7 @@ For the camera-ready version of accepted papers, please use [this style file](ht
 <tr><td>14:00 - 14:15</td><td>Contributed talks / demos</td></tr>
 <tr><td>14:15 - 15:00</td><td>Poster session</td></tr>
 <tr><td>15:00 - 15:30</td><td><em>Coffee break</em></td></tr>
-<tr><td>15:30 - 16:00</td><td><a href="#stella-biderman">Stella Biderman</a>: TBA</td></tr>
+<tr><td>15:30 - 16:00</td><td><a href="#stella-biderman">Stella Biderman</a>: "Lessons from the Trenches on Reproducible Evaluation of Language Models"</td></tr>
 <tr><td>16:00 - 16:55</td><td>Panel discussion</td></tr>
 <tr><td>16:55 - 17:00</td><td>Closing remarks</td></tr>
 </table>
